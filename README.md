@@ -7,7 +7,9 @@
 
 
 
-Here are some ideas to get you started:
+<h2> 🤳 Connect with me:</h2>
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
